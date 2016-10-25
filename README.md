@@ -4,6 +4,6 @@
 
   ## Hot to use ##
 
-  '''shell
+  ```shell
   ruby directory.rb
-  '''
+  ```
